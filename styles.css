@@ -1,1 +1,58 @@
-/* your code */
+ body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+
+.main_tb{
+   border: 1px solid black;
+   /* text-align: left; */
+   width: 50%;
+   border-collapse: collapse;
+   margin: 25px 0;
+
+    font-size: 0.9em;
+  border-radius: 10px;
+ overflow: hidden;
+ padding: 50px;
+ width: 50%;
+ height: 180px;
+ text-align:left ;
+
+ 
+
+}
+
+.heading{
+    background-color:  rgb(57, 57, 137);
+    color: white;
+    font-weight: normal;
+    font-size: 10px;
+    padding: 20px 25px;
+}
+
+.row1{
+background-color:  white;
+margin: 20px;
+   padding: 50px;
+   font-size: 10px;
+   padding: 20px 25px;
+
+}
+
+.row2{
+    background-color:  rgb(169, 167, 167);
+    padding: 12px 15px;
+    font-size: 10px;
+}
+
+.row3{
+    background-color:  white;
+    padding: 12px 15px;
+    font-size: 10px;
+    }
+    
+    .row4{
+        background-color:  rgb(169, 167, 167);
+        padding: 12px 15px;
+        font-size: 10px;
+    }
